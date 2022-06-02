@@ -1,7 +1,7 @@
 # zujuHouseRenting
 介绍
 
-​ 这主要是后台代码，前端代码+我微信18420010795。
+​ 这主要是后台代码
 
 ​ 该项目主要是springboot+shrio+mybatisplus为后端框架，Vue+ElementUI为前端框架，的一个前后端分离项目。数据库使用Mysql。
 功能
